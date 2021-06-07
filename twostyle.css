@@ -1,0 +1,31 @@
+#know{
+    font-size: 0.5em;
+     text-align: left;
+}
+.contain{
+    display: flex;
+    flex-direction: row;
+    text-align: justify;
+}
+.left{
+    background-color: rgb(224, 241, 241);
+    width: 300px;
+    height: 200px;
+}
+.center{
+    background-color: rgb(194, 241, 235);
+    width: 300px;
+    height: 200px;
+}
+.right{
+    background-color: rgb(224, 241, 241);
+    width: 300px;
+    height: 200px;
+}
+#genbtn{
+    position: absolute;
+    left: 300px;
+    Top: 20px;
+    bottom: 20px;
+    background-color: turquoise;
+}    
